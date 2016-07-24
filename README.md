@@ -1,5 +1,3 @@
-![Screenshot](http://puu.sh/mrawk/e80739e8ba.png)
-
 # java_hangman
 A small program I wrote to learn a little about string manipulation in first year
 
