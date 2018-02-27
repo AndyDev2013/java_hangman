@@ -1,7 +1,7 @@
 # hangman
 A small program I wrote to learn a little about string manipulation in first year
 
-#Installation Notes
+# Installation Notes
 
 This is a small java program. So to run it you need java installed
 and have set up the enviroment variable.
